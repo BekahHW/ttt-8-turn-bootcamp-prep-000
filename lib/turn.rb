@@ -34,6 +34,7 @@ input=gets.strip
   valid_move?(board, 0)
   
   position_taken?(board, 0)
+  puts ""
  
 end
 
