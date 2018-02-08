@@ -32,6 +32,7 @@ input=gets.strip
   input=input_to_index(input)
   
   valid_move?(board, 0)
+  puts "O"
   
   position_taken?(board, 0)
   puts "Please enter 1-9:"
